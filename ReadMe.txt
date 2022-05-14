@@ -1,13 +1,12 @@
 Description:
-In this simple Excel project we compare between the revenue, cost, and profit between different conutries for bike sales. 
-We also compare for each country based on years.
+We have three excl sheets:
+1-sales which is our original data
+2-Sales Countries which is data used for analyzing sales per countries.
+3-Bike share Sales People which is data ued for analyzing people.
 
 Concept covered:
-The main concept here is how to use pivot tables in excel and use some of its features like: 
-Constructing a calculated column
-filtering
-changing values of the aggregated fields
-We also created an interactive dashboard to easy filter and visualize the results.
+In this project we passed through all data analysis process from importing data, cleeaning it, analyzing it, and visualizing it.
+we made a lot of pivot tables, removed duplicated values, created calculated values, replaced values, created filters and dashboards.
 
 Data Set Source is from kaggle
 
